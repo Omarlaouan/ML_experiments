@@ -5,4 +5,4 @@ To do :
   - Implement from scratch in python
   - Compare to open source librairies
 - - Hyperparameter optimization
-    - compare librairies 
+    - compare librairies(Hyperopt, Optuna)
