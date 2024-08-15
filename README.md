@@ -1,9 +1,5 @@
-# ML_experiments
+# Drift Detection
 
-To do : 
-- Drift Detection : 
-  - Implement from scratch in python
-  - Compare to open source librairies (alibi, evidently)
-
-- - Hyperparameter optimization
-    - compare librairies(Hyperopt, Optuna)
+## To do:
+- Explore and compare to open source libraries (alibi, evidently)
+- Implement from scratch in Python
